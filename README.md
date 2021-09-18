@@ -15,3 +15,6 @@ https://data.cityofchicago.org/Public-Safety/Gun-Crimes/ta3m-92yk
 ### Project Plan:
 Both datasets listed above have the community area number.  The Census data explicitly states the name of the neighborhood for each community number. We created three tables from the two data sets, the community number and the name of the neighborhood, the gun crimes data, and the census data.
 The primary key of the neighborhoods table will be the community number, this will be the foreign key for both the census data and the gun crimes tables. This will allow us to join tables for queries.
+
+### Final Rerport
+https://github.com/NickP20/Gun_Violence/blob/main/ETL%20Project%20Report.docx
