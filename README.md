@@ -17,5 +17,5 @@ Both datasets listed above have the community area number.  The Census data expl
 The primary key of the neighborhoods table will be the community number, this will be the foreign key for both the census data and the gun crimes tables. This will allow us to join tables for queries.
 
 ### Final Rerport
-[Final REport Documentation](https://github.com/NickP20/Gun_Violence/blob/main/ETL%20Project%20Report.docx)
+[Final Report Documentation](https://github.com/NickP20/Gun_Violence/blob/main/ETL%20Project%20Report.docx)
 
