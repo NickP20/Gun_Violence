@@ -2,8 +2,8 @@
 Chicago Gun Violence and census economic data
 
 #### Team Members
-Helena Zhang
-Kara Humanski
+Helena Zhang,
+Kara Humanski,
 Nick Prieto
 
 ### Data Sources
