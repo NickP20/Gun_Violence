@@ -1,5 +1,5 @@
 # Gun_Violence
-Gun Violence compared to Economic Data
+Chicago Gun Violence and census economic data
 
 #### Team Members
 Helena Zhang
