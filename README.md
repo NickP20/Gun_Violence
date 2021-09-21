@@ -21,7 +21,12 @@ The primary key of the neighborhoods table will be the community number, this wi
 * We utilized two different csv files and read them into a Jupyter notebook for trasforming.
 
 ##### Transform
-* 
+* We created 3 seperate data frames from the CSV files. Creating a data frame for neighborhoods, economic factors, and gun crime statistics.
+* We utilized Pandas to rename columns, drop null data, filter the time periods to align, changed data types, and selected specific columns. 
+
+##### Load
+* We used sqlalchemy to link from our Jupyter notebook to the PgAdmin server and inserted all three dataframes as tables into a database
+* We performed a join between our "economic_indicator" table and our "gun_crime" table to exam that the foreign key and primary were succesfully set. 
 
 ### Final Report
 [Final Report Documentation](https://github.com/NickP20/Gun_Violence/blob/main/ETL%20Project%20Report.docx)
