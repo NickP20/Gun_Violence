@@ -29,5 +29,5 @@ The primary key of the neighborhoods table will be the community number, this wi
 
 ##### Load
 * We used sqlalchemy to link from our Jupyter notebook to the PgAdmin server and inserted all three dataframes as tables into a database
-* We performed a join between our "economic_indicator" table and our "gun_crime" table to exam that the foreign key and primary were succesfully set. 
+* We performed a simple join between our "economic_indicator" table and our "gun_crime" table
 
